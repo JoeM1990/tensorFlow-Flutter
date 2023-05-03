@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return ScreenUtilInit(
         builder: () => MaterialApp(
               debugShowCheckedModeBanner: false,
-              title: 'Flutter with Mediapipe',
+              title: 'MONKILA',
               theme: ThemeData(
                 appBarTheme: const AppBarTheme(
                   elevation: 0.0,
