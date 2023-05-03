@@ -4,10 +4,11 @@
 
 <br>
 <br>
-# <p align="center"> Joe MONKILA </p>
+
 <br>
 <br>
 <br>
+## <p align="center"> By Joe MONKILA </p>
 
 This is Flutter project using MediaPipe ML models.
 | Face Detection | Face Mesh |
