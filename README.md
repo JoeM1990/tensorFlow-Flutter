@@ -4,8 +4,7 @@
 
 <br>
 <br>
-
-## <p align="center"> 🌟 Flutter with MediaPipe Project 🌟 </p>
+# <p align="center"> Joe MONKILA </p>
 <br>
 <br>
 <br>
@@ -37,21 +36,7 @@ This is Flutter project using MediaPipe ML models.
 <br>
 
 
-## MediaPipe
-
-![mediapipe](assets/images/mediapipe.png)
-<br>
-MediaPipe offers cross-platform, customizable ML solutions for live and streaming media.
-#### [mediapipe.dev](https://mediapipe.dev/)
-#### [mediapipe code](https://github.com/google/mediapipe)
-
 
 <br>
 <br>
 <br>
-
-## App Store & Play Store
-
-
-#### [App Store](https://apps.apple.com/us/app/flutter-pipe/id1583450010)
-#### [Play Store](https://play.google.com/store/apps/details?id=com.jdev.fmediapipe)
