@@ -7,7 +7,6 @@
 <br>
 <br>
 <br>
-<p align="center"> By Joe MONKILA </p>
 
 This is Flutter project using MediaPipe ML models.
 | Face Detection | Face Mesh |
@@ -40,3 +39,7 @@ This is Flutter project using MediaPipe ML models.
 <br>
 <br>
 <br>
+
+## Auteur
+
+Ce projet a été créé par [Joe Monkila](https://github.com/JoeM1990).
